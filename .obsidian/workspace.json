@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c0c324d679510df",
+        "id": "6b95e6b8a52545a6",
         "type": "tabs",
         "children": [
           {
-            "id": "17b224b84103bea4",
+            "id": "f273eada889b70c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teste.md",
+                "file": "Linux/Book_Programacao_Shell_Linux/commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "teste"
+              "title": "commands"
             }
           }
         ]
@@ -159,9 +159,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e170df75ad6718a",
+  "active": "f273eada889b70c4",
   "lastOpenFiles": [
     "teste.md",
+    "Linux/Book_Programacao_Shell_Linux/commands.md",
+    "Linux/Book_Programacao_Shell_Linux",
+    "Linux",
     "notes",
     "Welcome.md"
   ]
